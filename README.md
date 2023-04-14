@@ -19,8 +19,7 @@ Next, install the required Python modules:
 
 `pip install selenium`
 
-Finally, download and install the ChromeDriver for Selenium from here:
-https://sites.google.com/a/chromium.org/chromedriver/downloads
+Finally, download and install the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) for Selenium.
 
 Usage
 
