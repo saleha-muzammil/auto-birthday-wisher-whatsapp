@@ -5,9 +5,9 @@ The Automated WhatsApp Birthday Wishes project is a Python script that uses the 
 
 To run the script, you will need the following:
 
-*Python 3.x
-*Selenium WebDriver for chrome 
-*A WhatsApp account
+* Python 3.x
+* Selenium WebDriver for chrome 
+* A WhatsApp account
 
 # Installation
 
@@ -25,8 +25,8 @@ Usage
 
 To use the script, first update the "birthdays.csv" file with the birthdays of the people you want to wish a happy birthday to. The file should contain one row per person, with the following columns:
 
-*Name (as saved on whatsapp)
-*Date of Birth (in format "YYYY-MM-DD")
+* Name (as saved on whatsapp)
+* Date of Birth (in format "YYYY-MM-DD")
 
 Once the birthdays are updated, run the script using the following command:
 
@@ -38,9 +38,9 @@ The script will automatically check the "birthdays.csv" file and send personaliz
 
 If you encounter any issues with the script, check the following:
 
-*Make sure you have installed the required Python modules and Selenium WebDriver for your chosen browser.
-*Make sure your WhatsApp account is logged in and connected to WhatsApp Web.
-*Double-check that the "birthdays.csv" file is formatted correctly and contains the correct information and is stored in the same directory as whatsapp_wisher.py
+* Make sure you have installed the required Python modules and Selenium WebDriver for your chosen browser.
+* Make sure your WhatsApp account is logged in and connected to WhatsApp Web.
+* Double-check that the "birthdays.csv" file is formatted correctly and contains the correct information and is stored in the same directory as whatsapp_wisher.py
 
 If you still encounter issues, feel free to open an issue in the repository.
 
