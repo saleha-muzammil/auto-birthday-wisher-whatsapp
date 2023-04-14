@@ -13,11 +13,11 @@ To run the script, you will need the following:
 
 To get started, clone this repository to your local machine:
 
-'git clone https://github.com/saleha-muzammil/auto-birthday-wisher-whatsapp.git'
+`git clone https://github.com/saleha-muzammil/auto-birthday-wisher-whatsapp.git`
 
 Next, install the required Python modules:
 
-'pip install selenium'
+`pip install selenium`
 
 Finally, download and install the ChromeDriver for Selenium from here:
 https://sites.google.com/a/chromium.org/chromedriver/downloads
@@ -31,7 +31,7 @@ To use the script, first update the "birthdays.csv" file with the birthdays of t
 
 Once the birthdays are updated, run the script using the following command:
 
-'python3 whatsapp_wisher.py'
+`python3 whatsapp_wisher.py`
 
 The script will automatically check the "birthdays.csv" file and send personalized birthday messages to anyone whose birthday is today. The script will run once per day, so you can set up a cron job or scheduled task to run the script automatically.
 
