@@ -26,7 +26,6 @@ except:
     exit("chromedriver not found in systempath or in the same directory")
 
 
-# Needs admin prilivges to run on windows. This is not needed on Linux and Mac. Default session is secured.
 # This is also cross platform.
 # For windows this will be C:\Users\username\AppData\Local\Google\Chrome\User Data and for Linux and Mac it will be /home/username/.config/google-chrome
 # You dont need to specify the username. It will automatically use the current user.
